@@ -4,7 +4,7 @@ TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE="cropcoin.conf"
 BINARY_FILE="/usr/local/bin/cropcoind"
 CROP_REPO="https://github.com/Cropdev/CropDev.git"
-COIN_TGZ='https://github.com/Cropdev/CropDev/archive/v1.1.0.5.tar.gz'
+COIN_TGZ='https://github.com/realvape/cropcoind/releases/download/cropcoind/cropcoind.gz'
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
